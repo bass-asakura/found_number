@@ -1,0 +1,14 @@
+C:\found_number\obj\Debug\net8.0\found_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\found_number\obj\Debug\net8.0\found_number.AssemblyInfoInputs.cache
+C:\found_number\obj\Debug\net8.0\found_number.AssemblyInfo.cs
+C:\found_number\obj\Debug\net8.0\found_number.csproj.CoreCompileInputs.cache
+C:\found_number\bin\Debug\net8.0\found_number.exe
+C:\found_number\bin\Debug\net8.0\found_number.deps.json
+C:\found_number\bin\Debug\net8.0\found_number.runtimeconfig.json
+C:\found_number\bin\Debug\net8.0\found_number.dll
+C:\found_number\bin\Debug\net8.0\found_number.pdb
+C:\found_number\obj\Debug\net8.0\found_number.dll
+C:\found_number\obj\Debug\net8.0\refint\found_number.dll
+C:\found_number\obj\Debug\net8.0\found_number.pdb
+C:\found_number\obj\Debug\net8.0\found_number.genruntimeconfig.cache
+C:\found_number\obj\Debug\net8.0\ref\found_number.dll
